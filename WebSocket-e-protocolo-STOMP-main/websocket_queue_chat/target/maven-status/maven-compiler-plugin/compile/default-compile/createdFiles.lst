@@ -1,0 +1,4 @@
+br\edu\ifsp\bra\websocket_queue_chat\CustomHandshakeHandler.class
+br\edu\ifsp\bra\websocket_queue_chat\PrivateChatController.class
+br\edu\ifsp\bra\websocket_queue_chat\MessageDTO.class
+br\edu\ifsp\bra\websocket_queue_chat\WebSocketConfig.class
